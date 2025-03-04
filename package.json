@@ -1,0 +1,21 @@
+{
+  "name": "leetcode-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2665. Counter II.js",
+  "scripts": {
+    "start": "nodemon js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakhmudSD/Leetcode-Solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MakhmudSD/Leetcode-Solutions/issues"
+  },
+  "homepage": "https://github.com/MakhmudSD/Leetcode-Solutions#readme"
+}
