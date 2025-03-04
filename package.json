@@ -2,7 +2,7 @@
   "name": "leetcode-solutions",
   "version": "1.0.0",
   "description": "",
-  "main": "2665. Counter II.js",
+  "main": "2703. Return Lengths of Arguments.js",
   "scripts": {
     "start": "nodemon js",
     "test": "echo \"Error: no test specified\" && exit 1"
