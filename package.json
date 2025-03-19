@@ -2,7 +2,7 @@
   "name": "leetcode-solutions",
   "version": "1.0.0",
   "description": "",
-  "main": "2206. Divide Arrays into Equal pairs.js",
+  "main": "1408. String matching in Array.js",
   "scripts": {
     "start": "nodemon js",
     "test": "echo \"Error: no test specified\" && exit 1"
